@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics.Tracing;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -76,10 +77,26 @@ namespace MasterMindApp
 
         private void StartGame()
         {
+            ncount = 0;
             lstbuttons.ForEach(b => b.BackColor = DefaultBackColor);
             GetSecretCode();
+            lstpanel.ForEach(t => t.CellBorderStyle = TableLayoutPanelCellBorderStyle.None);
+            lstpanel.ForEach(t => ResetLabels(t));
             EnablePanel();
 
+        }
+        private void ResetLabels(TableLayoutPanel t) {
+            foreach (Control c in t.Controls)
+            {
+                if (c is TableLayoutPanel)
+                    foreach (Control l in c.Controls)
+                    {
+                        if (l is Label)
+                        {
+                            l.BackColor = DefaultBackColor;
+                       }
+                    }
+            }
         }
         private void GetSecretCode()
         {
@@ -92,10 +109,10 @@ namespace MasterMindApp
             lstcolor2.Remove(secretcolor3);
             secretcolor4 = lstcolor2[new Random().Next(0, lstcolor2.Count() )];
             lstcolor2.Remove(secretcolor4);
-            lblCode1.BackColor = DefaultBackColor;
-            lblCode2.BackColor = DefaultBackColor;
-            lblCode3.BackColor = DefaultBackColor;
-            lblCode4.BackColor = DefaultBackColor;
+            lblCode1.BackColor = Color.DarkGray;
+            lblCode2.BackColor = Color.DarkGray;
+            lblCode3.BackColor = Color.DarkGray;
+            lblCode4.BackColor = Color.DarkGray;
 
         }
         private void EnablePanel()
@@ -105,20 +122,22 @@ namespace MasterMindApp
                 return;
             }
             TableLayoutPanel tblturn = lstpanel[ncount];
+            tblturn.CellBorderStyle = TableLayoutPanelCellBorderStyle.Single;
             foreach (Control c in tblturn.Controls)
             {
                 if (c is Button)
                 {
                     c.Enabled = true;
-
                 }
             }
+            btnDone.Enabled = false;
         }
         private void GameOver() {
             lblCode1.BackColor = secretcolor1;
             lblCode2.BackColor = secretcolor2;
             lblCode3.BackColor = secretcolor3;
             lblCode4.BackColor = secretcolor4;
+            lstbuttons.ForEach(b => b.Enabled = false);
 
         }
         private bool CheckForDuplicateColor(Color cchoice)
@@ -127,7 +146,7 @@ namespace MasterMindApp
                 TableLayoutPanel tblturn = lstpanel[ncount];
                 foreach (Control c in tblturn.Controls)
                 {
-                    if (c.Name.StartsWith("btn") == true)
+                    if (c is Button)
                     {
                        if (c.BackColor == cchoice)
                     {
@@ -139,8 +158,22 @@ namespace MasterMindApp
             return false;
             
         }
-       
-      
+        private bool CheckAllColorsFilled()
+        {
+
+            TableLayoutPanel tblturn = lstpanel[ncount];
+            foreach (Control c in tblturn.Controls)
+            {
+                if (c is Button)
+                {
+                    if (c.BackColor == DefaultBackColor)
+                        return false;
+                }
+            }
+            return true;
+
+        }
+
         private string GiveResult() {
             TableLayoutPanel tblturn = lstpanel[ncount];
             int cntexactmatch = 0;
@@ -235,11 +268,14 @@ namespace MasterMindApp
                 Button btn = (Button)sender;
                 btn.BackColor = c;
             }
+            bool done = CheckAllColorsFilled();
+            if (done == true)
+                btnDone.Enabled = true;
         }
         private void BtnGiveUp_Click(object? sender, EventArgs e)
         {
             GameOver();
-            lstbuttons.ForEach(b => b.Enabled = false);
+            
         }
     }
 }
