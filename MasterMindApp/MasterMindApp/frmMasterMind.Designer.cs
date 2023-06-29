@@ -75,8 +75,78 @@
             this.btnDone = new System.Windows.Forms.Button();
             this.lblInstruction1 = new System.Windows.Forms.Label();
             this.lblInstruction2 = new System.Windows.Forms.Label();
-            this.lblInstruction3 = new System.Windows.Forms.Label();
             this.btnGiveUp = new System.Windows.Forms.Button();
+            this.tblGuess4 = new System.Windows.Forms.TableLayoutPanel();
+            this.btn4Guess1 = new System.Windows.Forms.Button();
+            this.btn4Guess2 = new System.Windows.Forms.Button();
+            this.btn4Guess3 = new System.Windows.Forms.Button();
+            this.btn4Guess4 = new System.Windows.Forms.Button();
+            this.tblResponse4 = new System.Windows.Forms.TableLayoutPanel();
+            this.lbl4Response1 = new System.Windows.Forms.Label();
+            this.lbl4Response2 = new System.Windows.Forms.Label();
+            this.lbl4Response3 = new System.Windows.Forms.Label();
+            this.lbl4Response4 = new System.Windows.Forms.Label();
+            this.tblGuess5 = new System.Windows.Forms.TableLayoutPanel();
+            this.btn5Guess1 = new System.Windows.Forms.Button();
+            this.btn5Guess2 = new System.Windows.Forms.Button();
+            this.btn5Guess3 = new System.Windows.Forms.Button();
+            this.btn5Guess4 = new System.Windows.Forms.Button();
+            this.tblResponse5 = new System.Windows.Forms.TableLayoutPanel();
+            this.lbl5Response1 = new System.Windows.Forms.Label();
+            this.lbl5Response2 = new System.Windows.Forms.Label();
+            this.lbl5Response3 = new System.Windows.Forms.Label();
+            this.lbl5Response4 = new System.Windows.Forms.Label();
+            this.tblGuess6 = new System.Windows.Forms.TableLayoutPanel();
+            this.btn6Guess1 = new System.Windows.Forms.Button();
+            this.btn6Guess2 = new System.Windows.Forms.Button();
+            this.btn6Guess3 = new System.Windows.Forms.Button();
+            this.btn6Guess4 = new System.Windows.Forms.Button();
+            this.tblResponse6 = new System.Windows.Forms.TableLayoutPanel();
+            this.lbl6Response1 = new System.Windows.Forms.Label();
+            this.lbl6Response2 = new System.Windows.Forms.Label();
+            this.lbl6Response3 = new System.Windows.Forms.Label();
+            this.lbl6Response4 = new System.Windows.Forms.Label();
+            this.tblGuess7 = new System.Windows.Forms.TableLayoutPanel();
+            this.btn7Guess1 = new System.Windows.Forms.Button();
+            this.btn7Guess2 = new System.Windows.Forms.Button();
+            this.btn7Guess3 = new System.Windows.Forms.Button();
+            this.btn7Guess4 = new System.Windows.Forms.Button();
+            this.tblResponse7 = new System.Windows.Forms.TableLayoutPanel();
+            this.lbl7Response1 = new System.Windows.Forms.Label();
+            this.lbl7Response2 = new System.Windows.Forms.Label();
+            this.lbl7Response3 = new System.Windows.Forms.Label();
+            this.lbl7Response4 = new System.Windows.Forms.Label();
+            this.tblGuess8 = new System.Windows.Forms.TableLayoutPanel();
+            this.btn8Guess1 = new System.Windows.Forms.Button();
+            this.btn8Guess2 = new System.Windows.Forms.Button();
+            this.btn8Guess3 = new System.Windows.Forms.Button();
+            this.btn8Guess4 = new System.Windows.Forms.Button();
+            this.tblResponse8 = new System.Windows.Forms.TableLayoutPanel();
+            this.lbl8Response1 = new System.Windows.Forms.Label();
+            this.lbl8Response2 = new System.Windows.Forms.Label();
+            this.lbl8Response3 = new System.Windows.Forms.Label();
+            this.lbl8Response4 = new System.Windows.Forms.Label();
+            this.tblGuess9 = new System.Windows.Forms.TableLayoutPanel();
+            this.btn9Guess1 = new System.Windows.Forms.Button();
+            this.btn9Guess2 = new System.Windows.Forms.Button();
+            this.btn9Guess3 = new System.Windows.Forms.Button();
+            this.btn9Guess4 = new System.Windows.Forms.Button();
+            this.tblResponse9 = new System.Windows.Forms.TableLayoutPanel();
+            this.lbl9Response1 = new System.Windows.Forms.Label();
+            this.lbl9Response2 = new System.Windows.Forms.Label();
+            this.lbl9Response3 = new System.Windows.Forms.Label();
+            this.lbl9Response4 = new System.Windows.Forms.Label();
+            this.tblGuess10 = new System.Windows.Forms.TableLayoutPanel();
+            this.btn10Guess1 = new System.Windows.Forms.Button();
+            this.btn10Guess2 = new System.Windows.Forms.Button();
+            this.btn10Guess3 = new System.Windows.Forms.Button();
+            this.btn10Guess4 = new System.Windows.Forms.Button();
+            this.tblResponse10 = new System.Windows.Forms.TableLayoutPanel();
+            this.lbl10Response1 = new System.Windows.Forms.Label();
+            this.lbl10Response2 = new System.Windows.Forms.Label();
+            this.lbl10response3 = new System.Windows.Forms.Label();
+            this.lbl10response4 = new System.Windows.Forms.Label();
+            this.lblInstruction3 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
@@ -85,76 +155,6 @@
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.tblGuess4 = new System.Windows.Forms.TableLayoutPanel();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
-            this.tblResponse4 = new System.Windows.Forms.TableLayoutPanel();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.tblGuess5 = new System.Windows.Forms.TableLayoutPanel();
-            this.button9 = new System.Windows.Forms.Button();
-            this.button10 = new System.Windows.Forms.Button();
-            this.button11 = new System.Windows.Forms.Button();
-            this.button12 = new System.Windows.Forms.Button();
-            this.tblResponse5 = new System.Windows.Forms.TableLayoutPanel();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.tblGuess6 = new System.Windows.Forms.TableLayoutPanel();
-            this.button13 = new System.Windows.Forms.Button();
-            this.button14 = new System.Windows.Forms.Button();
-            this.button15 = new System.Windows.Forms.Button();
-            this.button16 = new System.Windows.Forms.Button();
-            this.tblResponse6 = new System.Windows.Forms.TableLayoutPanel();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.tblGuess7 = new System.Windows.Forms.TableLayoutPanel();
-            this.button17 = new System.Windows.Forms.Button();
-            this.button18 = new System.Windows.Forms.Button();
-            this.button19 = new System.Windows.Forms.Button();
-            this.button20 = new System.Windows.Forms.Button();
-            this.tblResponse7 = new System.Windows.Forms.TableLayoutPanel();
-            this.label15 = new System.Windows.Forms.Label();
-            this.label16 = new System.Windows.Forms.Label();
-            this.label17 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
-            this.tblGuess8 = new System.Windows.Forms.TableLayoutPanel();
-            this.button21 = new System.Windows.Forms.Button();
-            this.button22 = new System.Windows.Forms.Button();
-            this.button23 = new System.Windows.Forms.Button();
-            this.button24 = new System.Windows.Forms.Button();
-            this.tblResponse8 = new System.Windows.Forms.TableLayoutPanel();
-            this.label19 = new System.Windows.Forms.Label();
-            this.label20 = new System.Windows.Forms.Label();
-            this.label21 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
-            this.tblGuess9 = new System.Windows.Forms.TableLayoutPanel();
-            this.button25 = new System.Windows.Forms.Button();
-            this.button26 = new System.Windows.Forms.Button();
-            this.button27 = new System.Windows.Forms.Button();
-            this.button28 = new System.Windows.Forms.Button();
-            this.tblResponse9 = new System.Windows.Forms.TableLayoutPanel();
-            this.label23 = new System.Windows.Forms.Label();
-            this.label24 = new System.Windows.Forms.Label();
-            this.label25 = new System.Windows.Forms.Label();
-            this.label26 = new System.Windows.Forms.Label();
-            this.tblGuess10 = new System.Windows.Forms.TableLayoutPanel();
-            this.button29 = new System.Windows.Forms.Button();
-            this.button30 = new System.Windows.Forms.Button();
-            this.button31 = new System.Windows.Forms.Button();
-            this.button32 = new System.Windows.Forms.Button();
-            this.tblResponse10 = new System.Windows.Forms.TableLayoutPanel();
-            this.label27 = new System.Windows.Forms.Label();
-            this.label28 = new System.Windows.Forms.Label();
-            this.label29 = new System.Windows.Forms.Label();
-            this.label30 = new System.Windows.Forms.Label();
             this.tblMain.SuspendLayout();
             this.tblSecretCode.SuspendLayout();
             this.pnlColorChoices.SuspendLayout();
@@ -164,8 +164,6 @@
             this.tblResponse2.SuspendLayout();
             this.tblGuess3.SuspendLayout();
             this.tblResponse3.SuspendLayout();
-            this.tableLayoutPanel1.SuspendLayout();
-            this.tableLayoutPanel2.SuspendLayout();
             this.tblGuess4.SuspendLayout();
             this.tblResponse4.SuspendLayout();
             this.tblGuess5.SuspendLayout();
@@ -180,6 +178,8 @@
             this.tblResponse9.SuspendLayout();
             this.tblGuess10.SuspendLayout();
             this.tblResponse10.SuspendLayout();
+            this.tableLayoutPanel1.SuspendLayout();
+            this.tableLayoutPanel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // tblMain
@@ -747,6 +747,813 @@
             this.lblInstruction2.TabIndex = 9;
             this.lblInstruction2.Text = "Click buttons to select color. Right Click to Clear color.";
             // 
+            // btnGiveUp
+            // 
+            this.btnGiveUp.Location = new System.Drawing.Point(3, 333);
+            this.btnGiveUp.Name = "btnGiveUp";
+            this.btnGiveUp.Size = new System.Drawing.Size(75, 23);
+            this.btnGiveUp.TabIndex = 11;
+            this.btnGiveUp.Text = "GiveUp";
+            this.btnGiveUp.UseVisualStyleBackColor = true;
+            // 
+            // tblGuess4
+            // 
+            this.tblGuess4.ColumnCount = 5;
+            this.tblGuess4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess4.Controls.Add(this.btn4Guess1, 0, 0);
+            this.tblGuess4.Controls.Add(this.btn4Guess2, 1, 0);
+            this.tblGuess4.Controls.Add(this.btn4Guess3, 2, 0);
+            this.tblGuess4.Controls.Add(this.btn4Guess4, 3, 0);
+            this.tblGuess4.Controls.Add(this.tblResponse4, 4, 0);
+            this.tblGuess4.Location = new System.Drawing.Point(163, 223);
+            this.tblGuess4.Name = "tblGuess4";
+            this.tblGuess4.RowCount = 1;
+            this.tblGuess4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tblGuess4.Size = new System.Drawing.Size(634, 49);
+            this.tblGuess4.TabIndex = 12;
+            // 
+            // btn4Guess1
+            // 
+            this.btn4Guess1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn4Guess1.Location = new System.Drawing.Point(3, 3);
+            this.btn4Guess1.Name = "btn4Guess1";
+            this.btn4Guess1.Size = new System.Drawing.Size(120, 43);
+            this.btn4Guess1.TabIndex = 0;
+            this.btn4Guess1.UseVisualStyleBackColor = true;
+            // 
+            // btn4Guess2
+            // 
+            this.btn4Guess2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn4Guess2.Location = new System.Drawing.Point(129, 3);
+            this.btn4Guess2.Name = "btn4Guess2";
+            this.btn4Guess2.Size = new System.Drawing.Size(120, 43);
+            this.btn4Guess2.TabIndex = 1;
+            this.btn4Guess2.UseVisualStyleBackColor = true;
+            // 
+            // btn4Guess3
+            // 
+            this.btn4Guess3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn4Guess3.Location = new System.Drawing.Point(255, 3);
+            this.btn4Guess3.Name = "btn4Guess3";
+            this.btn4Guess3.Size = new System.Drawing.Size(120, 43);
+            this.btn4Guess3.TabIndex = 2;
+            this.btn4Guess3.UseVisualStyleBackColor = true;
+            // 
+            // btn4Guess4
+            // 
+            this.btn4Guess4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn4Guess4.Location = new System.Drawing.Point(381, 3);
+            this.btn4Guess4.Name = "btn4Guess4";
+            this.btn4Guess4.Size = new System.Drawing.Size(120, 43);
+            this.btn4Guess4.TabIndex = 3;
+            this.btn4Guess4.UseVisualStyleBackColor = true;
+            // 
+            // tblResponse4
+            // 
+            this.tblResponse4.ColumnCount = 2;
+            this.tblResponse4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse4.Controls.Add(this.lbl4Response1, 0, 0);
+            this.tblResponse4.Controls.Add(this.lbl4Response2, 1, 0);
+            this.tblResponse4.Controls.Add(this.lbl4Response3, 0, 1);
+            this.tblResponse4.Controls.Add(this.lbl4Response4, 1, 1);
+            this.tblResponse4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tblResponse4.Location = new System.Drawing.Point(507, 3);
+            this.tblResponse4.Name = "tblResponse4";
+            this.tblResponse4.RowCount = 2;
+            this.tblResponse4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse4.Size = new System.Drawing.Size(124, 43);
+            this.tblResponse4.TabIndex = 4;
+            // 
+            // lbl4Response1
+            // 
+            this.lbl4Response1.AutoSize = true;
+            this.lbl4Response1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl4Response1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl4Response1.Location = new System.Drawing.Point(3, 0);
+            this.lbl4Response1.Name = "lbl4Response1";
+            this.lbl4Response1.Size = new System.Drawing.Size(56, 21);
+            this.lbl4Response1.TabIndex = 0;
+            // 
+            // lbl4Response2
+            // 
+            this.lbl4Response2.AutoSize = true;
+            this.lbl4Response2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl4Response2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl4Response2.Location = new System.Drawing.Point(65, 0);
+            this.lbl4Response2.Name = "lbl4Response2";
+            this.lbl4Response2.Size = new System.Drawing.Size(56, 21);
+            this.lbl4Response2.TabIndex = 1;
+            // 
+            // lbl4Response3
+            // 
+            this.lbl4Response3.AutoSize = true;
+            this.lbl4Response3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl4Response3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl4Response3.Location = new System.Drawing.Point(3, 21);
+            this.lbl4Response3.Name = "lbl4Response3";
+            this.lbl4Response3.Size = new System.Drawing.Size(56, 22);
+            this.lbl4Response3.TabIndex = 2;
+            // 
+            // lbl4Response4
+            // 
+            this.lbl4Response4.AutoSize = true;
+            this.lbl4Response4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl4Response4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl4Response4.Location = new System.Drawing.Point(65, 21);
+            this.lbl4Response4.Name = "lbl4Response4";
+            this.lbl4Response4.Size = new System.Drawing.Size(56, 22);
+            this.lbl4Response4.TabIndex = 3;
+            // 
+            // tblGuess5
+            // 
+            this.tblGuess5.ColumnCount = 5;
+            this.tblGuess5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess5.Controls.Add(this.btn5Guess1, 0, 0);
+            this.tblGuess5.Controls.Add(this.btn5Guess2, 1, 0);
+            this.tblGuess5.Controls.Add(this.btn5Guess3, 2, 0);
+            this.tblGuess5.Controls.Add(this.btn5Guess4, 3, 0);
+            this.tblGuess5.Controls.Add(this.tblResponse5, 4, 0);
+            this.tblGuess5.Location = new System.Drawing.Point(163, 278);
+            this.tblGuess5.Name = "tblGuess5";
+            this.tblGuess5.RowCount = 1;
+            this.tblGuess5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tblGuess5.Size = new System.Drawing.Size(634, 49);
+            this.tblGuess5.TabIndex = 13;
+            // 
+            // btn5Guess1
+            // 
+            this.btn5Guess1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn5Guess1.Location = new System.Drawing.Point(3, 3);
+            this.btn5Guess1.Name = "btn5Guess1";
+            this.btn5Guess1.Size = new System.Drawing.Size(120, 43);
+            this.btn5Guess1.TabIndex = 0;
+            this.btn5Guess1.UseVisualStyleBackColor = true;
+            // 
+            // btn5Guess2
+            // 
+            this.btn5Guess2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn5Guess2.Location = new System.Drawing.Point(129, 3);
+            this.btn5Guess2.Name = "btn5Guess2";
+            this.btn5Guess2.Size = new System.Drawing.Size(120, 43);
+            this.btn5Guess2.TabIndex = 1;
+            this.btn5Guess2.UseVisualStyleBackColor = true;
+            // 
+            // btn5Guess3
+            // 
+            this.btn5Guess3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn5Guess3.Location = new System.Drawing.Point(255, 3);
+            this.btn5Guess3.Name = "btn5Guess3";
+            this.btn5Guess3.Size = new System.Drawing.Size(120, 43);
+            this.btn5Guess3.TabIndex = 2;
+            this.btn5Guess3.UseVisualStyleBackColor = true;
+            // 
+            // btn5Guess4
+            // 
+            this.btn5Guess4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn5Guess4.Location = new System.Drawing.Point(381, 3);
+            this.btn5Guess4.Name = "btn5Guess4";
+            this.btn5Guess4.Size = new System.Drawing.Size(120, 43);
+            this.btn5Guess4.TabIndex = 3;
+            this.btn5Guess4.UseVisualStyleBackColor = true;
+            // 
+            // tblResponse5
+            // 
+            this.tblResponse5.ColumnCount = 2;
+            this.tblResponse5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse5.Controls.Add(this.lbl5Response1, 0, 0);
+            this.tblResponse5.Controls.Add(this.lbl5Response2, 1, 0);
+            this.tblResponse5.Controls.Add(this.lbl5Response3, 0, 1);
+            this.tblResponse5.Controls.Add(this.lbl5Response4, 1, 1);
+            this.tblResponse5.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tblResponse5.Location = new System.Drawing.Point(507, 3);
+            this.tblResponse5.Name = "tblResponse5";
+            this.tblResponse5.RowCount = 2;
+            this.tblResponse5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse5.Size = new System.Drawing.Size(124, 43);
+            this.tblResponse5.TabIndex = 4;
+            // 
+            // lbl5Response1
+            // 
+            this.lbl5Response1.AutoSize = true;
+            this.lbl5Response1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl5Response1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl5Response1.Location = new System.Drawing.Point(3, 0);
+            this.lbl5Response1.Name = "lbl5Response1";
+            this.lbl5Response1.Size = new System.Drawing.Size(56, 21);
+            this.lbl5Response1.TabIndex = 0;
+            // 
+            // lbl5Response2
+            // 
+            this.lbl5Response2.AutoSize = true;
+            this.lbl5Response2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl5Response2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl5Response2.Location = new System.Drawing.Point(65, 0);
+            this.lbl5Response2.Name = "lbl5Response2";
+            this.lbl5Response2.Size = new System.Drawing.Size(56, 21);
+            this.lbl5Response2.TabIndex = 1;
+            // 
+            // lbl5Response3
+            // 
+            this.lbl5Response3.AutoSize = true;
+            this.lbl5Response3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl5Response3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl5Response3.Location = new System.Drawing.Point(3, 21);
+            this.lbl5Response3.Name = "lbl5Response3";
+            this.lbl5Response3.Size = new System.Drawing.Size(56, 22);
+            this.lbl5Response3.TabIndex = 2;
+            // 
+            // lbl5Response4
+            // 
+            this.lbl5Response4.AutoSize = true;
+            this.lbl5Response4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl5Response4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl5Response4.Location = new System.Drawing.Point(65, 21);
+            this.lbl5Response4.Name = "lbl5Response4";
+            this.lbl5Response4.Size = new System.Drawing.Size(56, 22);
+            this.lbl5Response4.TabIndex = 3;
+            // 
+            // tblGuess6
+            // 
+            this.tblGuess6.ColumnCount = 5;
+            this.tblGuess6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess6.Controls.Add(this.btn6Guess1, 0, 0);
+            this.tblGuess6.Controls.Add(this.btn6Guess2, 1, 0);
+            this.tblGuess6.Controls.Add(this.btn6Guess3, 2, 0);
+            this.tblGuess6.Controls.Add(this.btn6Guess4, 3, 0);
+            this.tblGuess6.Controls.Add(this.tblResponse6, 4, 0);
+            this.tblGuess6.Location = new System.Drawing.Point(163, 333);
+            this.tblGuess6.Name = "tblGuess6";
+            this.tblGuess6.RowCount = 1;
+            this.tblGuess6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tblGuess6.Size = new System.Drawing.Size(634, 49);
+            this.tblGuess6.TabIndex = 14;
+            // 
+            // btn6Guess1
+            // 
+            this.btn6Guess1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn6Guess1.Location = new System.Drawing.Point(3, 3);
+            this.btn6Guess1.Name = "btn6Guess1";
+            this.btn6Guess1.Size = new System.Drawing.Size(120, 43);
+            this.btn6Guess1.TabIndex = 0;
+            this.btn6Guess1.UseVisualStyleBackColor = true;
+            // 
+            // btn6Guess2
+            // 
+            this.btn6Guess2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn6Guess2.Location = new System.Drawing.Point(129, 3);
+            this.btn6Guess2.Name = "btn6Guess2";
+            this.btn6Guess2.Size = new System.Drawing.Size(120, 43);
+            this.btn6Guess2.TabIndex = 1;
+            this.btn6Guess2.UseVisualStyleBackColor = true;
+            // 
+            // btn6Guess3
+            // 
+            this.btn6Guess3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn6Guess3.Location = new System.Drawing.Point(255, 3);
+            this.btn6Guess3.Name = "btn6Guess3";
+            this.btn6Guess3.Size = new System.Drawing.Size(120, 43);
+            this.btn6Guess3.TabIndex = 2;
+            this.btn6Guess3.UseVisualStyleBackColor = true;
+            // 
+            // btn6Guess4
+            // 
+            this.btn6Guess4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn6Guess4.Location = new System.Drawing.Point(381, 3);
+            this.btn6Guess4.Name = "btn6Guess4";
+            this.btn6Guess4.Size = new System.Drawing.Size(120, 43);
+            this.btn6Guess4.TabIndex = 3;
+            this.btn6Guess4.UseVisualStyleBackColor = true;
+            // 
+            // tblResponse6
+            // 
+            this.tblResponse6.ColumnCount = 2;
+            this.tblResponse6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse6.Controls.Add(this.lbl6Response1, 0, 0);
+            this.tblResponse6.Controls.Add(this.lbl6Response2, 1, 0);
+            this.tblResponse6.Controls.Add(this.lbl6Response3, 0, 1);
+            this.tblResponse6.Controls.Add(this.lbl6Response4, 1, 1);
+            this.tblResponse6.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tblResponse6.Location = new System.Drawing.Point(507, 3);
+            this.tblResponse6.Name = "tblResponse6";
+            this.tblResponse6.RowCount = 2;
+            this.tblResponse6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse6.Size = new System.Drawing.Size(124, 43);
+            this.tblResponse6.TabIndex = 4;
+            // 
+            // lbl6Response1
+            // 
+            this.lbl6Response1.AutoSize = true;
+            this.lbl6Response1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl6Response1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl6Response1.Location = new System.Drawing.Point(3, 0);
+            this.lbl6Response1.Name = "lbl6Response1";
+            this.lbl6Response1.Size = new System.Drawing.Size(56, 21);
+            this.lbl6Response1.TabIndex = 0;
+            // 
+            // lbl6Response2
+            // 
+            this.lbl6Response2.AutoSize = true;
+            this.lbl6Response2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl6Response2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl6Response2.Location = new System.Drawing.Point(65, 0);
+            this.lbl6Response2.Name = "lbl6Response2";
+            this.lbl6Response2.Size = new System.Drawing.Size(56, 21);
+            this.lbl6Response2.TabIndex = 1;
+            // 
+            // lbl6Response3
+            // 
+            this.lbl6Response3.AutoSize = true;
+            this.lbl6Response3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl6Response3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl6Response3.Location = new System.Drawing.Point(3, 21);
+            this.lbl6Response3.Name = "lbl6Response3";
+            this.lbl6Response3.Size = new System.Drawing.Size(56, 22);
+            this.lbl6Response3.TabIndex = 2;
+            // 
+            // lbl6Response4
+            // 
+            this.lbl6Response4.AutoSize = true;
+            this.lbl6Response4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl6Response4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl6Response4.Location = new System.Drawing.Point(65, 21);
+            this.lbl6Response4.Name = "lbl6Response4";
+            this.lbl6Response4.Size = new System.Drawing.Size(56, 22);
+            this.lbl6Response4.TabIndex = 3;
+            // 
+            // tblGuess7
+            // 
+            this.tblGuess7.ColumnCount = 5;
+            this.tblGuess7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess7.Controls.Add(this.btn7Guess1, 0, 0);
+            this.tblGuess7.Controls.Add(this.btn7Guess2, 1, 0);
+            this.tblGuess7.Controls.Add(this.btn7Guess3, 2, 0);
+            this.tblGuess7.Controls.Add(this.btn7Guess4, 3, 0);
+            this.tblGuess7.Controls.Add(this.tblResponse7, 4, 0);
+            this.tblGuess7.Location = new System.Drawing.Point(163, 388);
+            this.tblGuess7.Name = "tblGuess7";
+            this.tblGuess7.RowCount = 1;
+            this.tblGuess7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tblGuess7.Size = new System.Drawing.Size(634, 49);
+            this.tblGuess7.TabIndex = 15;
+            // 
+            // btn7Guess1
+            // 
+            this.btn7Guess1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn7Guess1.Location = new System.Drawing.Point(3, 3);
+            this.btn7Guess1.Name = "btn7Guess1";
+            this.btn7Guess1.Size = new System.Drawing.Size(120, 43);
+            this.btn7Guess1.TabIndex = 0;
+            this.btn7Guess1.UseVisualStyleBackColor = true;
+            // 
+            // btn7Guess2
+            // 
+            this.btn7Guess2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn7Guess2.Location = new System.Drawing.Point(129, 3);
+            this.btn7Guess2.Name = "btn7Guess2";
+            this.btn7Guess2.Size = new System.Drawing.Size(120, 43);
+            this.btn7Guess2.TabIndex = 1;
+            this.btn7Guess2.UseVisualStyleBackColor = true;
+            // 
+            // btn7Guess3
+            // 
+            this.btn7Guess3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn7Guess3.Location = new System.Drawing.Point(255, 3);
+            this.btn7Guess3.Name = "btn7Guess3";
+            this.btn7Guess3.Size = new System.Drawing.Size(120, 43);
+            this.btn7Guess3.TabIndex = 2;
+            this.btn7Guess3.UseVisualStyleBackColor = true;
+            // 
+            // btn7Guess4
+            // 
+            this.btn7Guess4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn7Guess4.Location = new System.Drawing.Point(381, 3);
+            this.btn7Guess4.Name = "btn7Guess4";
+            this.btn7Guess4.Size = new System.Drawing.Size(120, 43);
+            this.btn7Guess4.TabIndex = 3;
+            this.btn7Guess4.UseVisualStyleBackColor = true;
+            // 
+            // tblResponse7
+            // 
+            this.tblResponse7.ColumnCount = 2;
+            this.tblResponse7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse7.Controls.Add(this.lbl7Response1, 0, 0);
+            this.tblResponse7.Controls.Add(this.lbl7Response2, 1, 0);
+            this.tblResponse7.Controls.Add(this.lbl7Response3, 0, 1);
+            this.tblResponse7.Controls.Add(this.lbl7Response4, 1, 1);
+            this.tblResponse7.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tblResponse7.Location = new System.Drawing.Point(507, 3);
+            this.tblResponse7.Name = "tblResponse7";
+            this.tblResponse7.RowCount = 2;
+            this.tblResponse7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse7.Size = new System.Drawing.Size(124, 43);
+            this.tblResponse7.TabIndex = 4;
+            // 
+            // lbl7Response1
+            // 
+            this.lbl7Response1.AutoSize = true;
+            this.lbl7Response1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl7Response1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl7Response1.Location = new System.Drawing.Point(3, 0);
+            this.lbl7Response1.Name = "lbl7Response1";
+            this.lbl7Response1.Size = new System.Drawing.Size(56, 21);
+            this.lbl7Response1.TabIndex = 0;
+            // 
+            // lbl7Response2
+            // 
+            this.lbl7Response2.AutoSize = true;
+            this.lbl7Response2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl7Response2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl7Response2.Location = new System.Drawing.Point(65, 0);
+            this.lbl7Response2.Name = "lbl7Response2";
+            this.lbl7Response2.Size = new System.Drawing.Size(56, 21);
+            this.lbl7Response2.TabIndex = 1;
+            // 
+            // lbl7Response3
+            // 
+            this.lbl7Response3.AutoSize = true;
+            this.lbl7Response3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl7Response3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl7Response3.Location = new System.Drawing.Point(3, 21);
+            this.lbl7Response3.Name = "lbl7Response3";
+            this.lbl7Response3.Size = new System.Drawing.Size(56, 22);
+            this.lbl7Response3.TabIndex = 2;
+            // 
+            // lbl7Response4
+            // 
+            this.lbl7Response4.AutoSize = true;
+            this.lbl7Response4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl7Response4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl7Response4.Location = new System.Drawing.Point(65, 21);
+            this.lbl7Response4.Name = "lbl7Response4";
+            this.lbl7Response4.Size = new System.Drawing.Size(56, 22);
+            this.lbl7Response4.TabIndex = 3;
+            // 
+            // tblGuess8
+            // 
+            this.tblGuess8.ColumnCount = 5;
+            this.tblGuess8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess8.Controls.Add(this.btn8Guess1, 0, 0);
+            this.tblGuess8.Controls.Add(this.btn8Guess2, 1, 0);
+            this.tblGuess8.Controls.Add(this.btn8Guess3, 2, 0);
+            this.tblGuess8.Controls.Add(this.btn8Guess4, 3, 0);
+            this.tblGuess8.Controls.Add(this.tblResponse8, 4, 0);
+            this.tblGuess8.Location = new System.Drawing.Point(163, 443);
+            this.tblGuess8.Name = "tblGuess8";
+            this.tblGuess8.RowCount = 1;
+            this.tblGuess8.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tblGuess8.Size = new System.Drawing.Size(634, 49);
+            this.tblGuess8.TabIndex = 16;
+            // 
+            // btn8Guess1
+            // 
+            this.btn8Guess1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn8Guess1.Location = new System.Drawing.Point(3, 3);
+            this.btn8Guess1.Name = "btn8Guess1";
+            this.btn8Guess1.Size = new System.Drawing.Size(120, 43);
+            this.btn8Guess1.TabIndex = 0;
+            this.btn8Guess1.UseVisualStyleBackColor = true;
+            // 
+            // btn8Guess2
+            // 
+            this.btn8Guess2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn8Guess2.Location = new System.Drawing.Point(129, 3);
+            this.btn8Guess2.Name = "btn8Guess2";
+            this.btn8Guess2.Size = new System.Drawing.Size(120, 43);
+            this.btn8Guess2.TabIndex = 1;
+            this.btn8Guess2.UseVisualStyleBackColor = true;
+            // 
+            // btn8Guess3
+            // 
+            this.btn8Guess3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn8Guess3.Location = new System.Drawing.Point(255, 3);
+            this.btn8Guess3.Name = "btn8Guess3";
+            this.btn8Guess3.Size = new System.Drawing.Size(120, 43);
+            this.btn8Guess3.TabIndex = 2;
+            this.btn8Guess3.UseVisualStyleBackColor = true;
+            // 
+            // btn8Guess4
+            // 
+            this.btn8Guess4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn8Guess4.Location = new System.Drawing.Point(381, 3);
+            this.btn8Guess4.Name = "btn8Guess4";
+            this.btn8Guess4.Size = new System.Drawing.Size(120, 43);
+            this.btn8Guess4.TabIndex = 3;
+            this.btn8Guess4.UseVisualStyleBackColor = true;
+            // 
+            // tblResponse8
+            // 
+            this.tblResponse8.ColumnCount = 2;
+            this.tblResponse8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse8.Controls.Add(this.lbl8Response1, 0, 0);
+            this.tblResponse8.Controls.Add(this.lbl8Response2, 1, 0);
+            this.tblResponse8.Controls.Add(this.lbl8Response3, 0, 1);
+            this.tblResponse8.Controls.Add(this.lbl8Response4, 1, 1);
+            this.tblResponse8.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tblResponse8.Location = new System.Drawing.Point(507, 3);
+            this.tblResponse8.Name = "tblResponse8";
+            this.tblResponse8.RowCount = 2;
+            this.tblResponse8.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse8.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse8.Size = new System.Drawing.Size(124, 43);
+            this.tblResponse8.TabIndex = 4;
+            // 
+            // lbl8Response1
+            // 
+            this.lbl8Response1.AutoSize = true;
+            this.lbl8Response1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl8Response1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl8Response1.Location = new System.Drawing.Point(3, 0);
+            this.lbl8Response1.Name = "lbl8Response1";
+            this.lbl8Response1.Size = new System.Drawing.Size(56, 21);
+            this.lbl8Response1.TabIndex = 0;
+            // 
+            // lbl8Response2
+            // 
+            this.lbl8Response2.AutoSize = true;
+            this.lbl8Response2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl8Response2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl8Response2.Location = new System.Drawing.Point(65, 0);
+            this.lbl8Response2.Name = "lbl8Response2";
+            this.lbl8Response2.Size = new System.Drawing.Size(56, 21);
+            this.lbl8Response2.TabIndex = 1;
+            // 
+            // lbl8Response3
+            // 
+            this.lbl8Response3.AutoSize = true;
+            this.lbl8Response3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl8Response3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl8Response3.Location = new System.Drawing.Point(3, 21);
+            this.lbl8Response3.Name = "lbl8Response3";
+            this.lbl8Response3.Size = new System.Drawing.Size(56, 22);
+            this.lbl8Response3.TabIndex = 2;
+            // 
+            // lbl8Response4
+            // 
+            this.lbl8Response4.AutoSize = true;
+            this.lbl8Response4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl8Response4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl8Response4.Location = new System.Drawing.Point(65, 21);
+            this.lbl8Response4.Name = "lbl8Response4";
+            this.lbl8Response4.Size = new System.Drawing.Size(56, 22);
+            this.lbl8Response4.TabIndex = 3;
+            // 
+            // tblGuess9
+            // 
+            this.tblGuess9.ColumnCount = 5;
+            this.tblGuess9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess9.Controls.Add(this.btn9Guess1, 0, 0);
+            this.tblGuess9.Controls.Add(this.btn9Guess2, 1, 0);
+            this.tblGuess9.Controls.Add(this.btn9Guess3, 2, 0);
+            this.tblGuess9.Controls.Add(this.btn9Guess4, 3, 0);
+            this.tblGuess9.Controls.Add(this.tblResponse9, 4, 0);
+            this.tblGuess9.Location = new System.Drawing.Point(163, 498);
+            this.tblGuess9.Name = "tblGuess9";
+            this.tblGuess9.RowCount = 1;
+            this.tblGuess9.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tblGuess9.Size = new System.Drawing.Size(634, 49);
+            this.tblGuess9.TabIndex = 17;
+            // 
+            // btn9Guess1
+            // 
+            this.btn9Guess1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn9Guess1.Location = new System.Drawing.Point(3, 3);
+            this.btn9Guess1.Name = "btn9Guess1";
+            this.btn9Guess1.Size = new System.Drawing.Size(120, 43);
+            this.btn9Guess1.TabIndex = 0;
+            this.btn9Guess1.UseVisualStyleBackColor = true;
+            // 
+            // btn9Guess2
+            // 
+            this.btn9Guess2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn9Guess2.Location = new System.Drawing.Point(129, 3);
+            this.btn9Guess2.Name = "btn9Guess2";
+            this.btn9Guess2.Size = new System.Drawing.Size(120, 43);
+            this.btn9Guess2.TabIndex = 1;
+            this.btn9Guess2.UseVisualStyleBackColor = true;
+            // 
+            // btn9Guess3
+            // 
+            this.btn9Guess3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn9Guess3.Location = new System.Drawing.Point(255, 3);
+            this.btn9Guess3.Name = "btn9Guess3";
+            this.btn9Guess3.Size = new System.Drawing.Size(120, 43);
+            this.btn9Guess3.TabIndex = 2;
+            this.btn9Guess3.UseVisualStyleBackColor = true;
+            // 
+            // btn9Guess4
+            // 
+            this.btn9Guess4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn9Guess4.Location = new System.Drawing.Point(381, 3);
+            this.btn9Guess4.Name = "btn9Guess4";
+            this.btn9Guess4.Size = new System.Drawing.Size(120, 43);
+            this.btn9Guess4.TabIndex = 3;
+            this.btn9Guess4.UseVisualStyleBackColor = true;
+            // 
+            // tblResponse9
+            // 
+            this.tblResponse9.ColumnCount = 2;
+            this.tblResponse9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse9.Controls.Add(this.lbl9Response1, 0, 0);
+            this.tblResponse9.Controls.Add(this.lbl9Response2, 1, 0);
+            this.tblResponse9.Controls.Add(this.lbl9Response3, 0, 1);
+            this.tblResponse9.Controls.Add(this.lbl9Response4, 1, 1);
+            this.tblResponse9.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tblResponse9.Location = new System.Drawing.Point(507, 3);
+            this.tblResponse9.Name = "tblResponse9";
+            this.tblResponse9.RowCount = 2;
+            this.tblResponse9.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse9.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse9.Size = new System.Drawing.Size(124, 43);
+            this.tblResponse9.TabIndex = 4;
+            // 
+            // lbl9Response1
+            // 
+            this.lbl9Response1.AutoSize = true;
+            this.lbl9Response1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl9Response1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl9Response1.Location = new System.Drawing.Point(3, 0);
+            this.lbl9Response1.Name = "lbl9Response1";
+            this.lbl9Response1.Size = new System.Drawing.Size(56, 21);
+            this.lbl9Response1.TabIndex = 0;
+            // 
+            // lbl9Response2
+            // 
+            this.lbl9Response2.AutoSize = true;
+            this.lbl9Response2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl9Response2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl9Response2.Location = new System.Drawing.Point(65, 0);
+            this.lbl9Response2.Name = "lbl9Response2";
+            this.lbl9Response2.Size = new System.Drawing.Size(56, 21);
+            this.lbl9Response2.TabIndex = 1;
+            // 
+            // lbl9Response3
+            // 
+            this.lbl9Response3.AutoSize = true;
+            this.lbl9Response3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl9Response3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl9Response3.Location = new System.Drawing.Point(3, 21);
+            this.lbl9Response3.Name = "lbl9Response3";
+            this.lbl9Response3.Size = new System.Drawing.Size(56, 22);
+            this.lbl9Response3.TabIndex = 2;
+            // 
+            // lbl9Response4
+            // 
+            this.lbl9Response4.AutoSize = true;
+            this.lbl9Response4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl9Response4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl9Response4.Location = new System.Drawing.Point(65, 21);
+            this.lbl9Response4.Name = "lbl9Response4";
+            this.lbl9Response4.Size = new System.Drawing.Size(56, 22);
+            this.lbl9Response4.TabIndex = 3;
+            // 
+            // tblGuess10
+            // 
+            this.tblGuess10.ColumnCount = 5;
+            this.tblGuess10.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess10.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess10.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess10.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess10.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tblGuess10.Controls.Add(this.btn10Guess1, 0, 0);
+            this.tblGuess10.Controls.Add(this.btn10Guess2, 1, 0);
+            this.tblGuess10.Controls.Add(this.btn10Guess3, 2, 0);
+            this.tblGuess10.Controls.Add(this.btn10Guess4, 3, 0);
+            this.tblGuess10.Controls.Add(this.tblResponse10, 4, 0);
+            this.tblGuess10.Location = new System.Drawing.Point(163, 553);
+            this.tblGuess10.Name = "tblGuess10";
+            this.tblGuess10.RowCount = 1;
+            this.tblGuess10.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tblGuess10.Size = new System.Drawing.Size(634, 49);
+            this.tblGuess10.TabIndex = 18;
+            // 
+            // btn10Guess1
+            // 
+            this.btn10Guess1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn10Guess1.Location = new System.Drawing.Point(3, 3);
+            this.btn10Guess1.Name = "btn10Guess1";
+            this.btn10Guess1.Size = new System.Drawing.Size(120, 43);
+            this.btn10Guess1.TabIndex = 0;
+            this.btn10Guess1.UseVisualStyleBackColor = true;
+            // 
+            // btn10Guess2
+            // 
+            this.btn10Guess2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn10Guess2.Location = new System.Drawing.Point(129, 3);
+            this.btn10Guess2.Name = "btn10Guess2";
+            this.btn10Guess2.Size = new System.Drawing.Size(120, 43);
+            this.btn10Guess2.TabIndex = 1;
+            this.btn10Guess2.UseVisualStyleBackColor = true;
+            // 
+            // btn10Guess3
+            // 
+            this.btn10Guess3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn10Guess3.Location = new System.Drawing.Point(255, 3);
+            this.btn10Guess3.Name = "btn10Guess3";
+            this.btn10Guess3.Size = new System.Drawing.Size(120, 43);
+            this.btn10Guess3.TabIndex = 2;
+            this.btn10Guess3.UseVisualStyleBackColor = true;
+            // 
+            // btn10Guess4
+            // 
+            this.btn10Guess4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn10Guess4.Location = new System.Drawing.Point(381, 3);
+            this.btn10Guess4.Name = "btn10Guess4";
+            this.btn10Guess4.Size = new System.Drawing.Size(120, 43);
+            this.btn10Guess4.TabIndex = 3;
+            this.btn10Guess4.UseVisualStyleBackColor = true;
+            // 
+            // tblResponse10
+            // 
+            this.tblResponse10.ColumnCount = 2;
+            this.tblResponse10.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse10.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse10.Controls.Add(this.lbl10Response1, 0, 0);
+            this.tblResponse10.Controls.Add(this.lbl10Response2, 1, 0);
+            this.tblResponse10.Controls.Add(this.lbl10response3, 0, 1);
+            this.tblResponse10.Controls.Add(this.lbl10response4, 1, 1);
+            this.tblResponse10.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tblResponse10.Location = new System.Drawing.Point(507, 3);
+            this.tblResponse10.Name = "tblResponse10";
+            this.tblResponse10.RowCount = 2;
+            this.tblResponse10.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse10.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tblResponse10.Size = new System.Drawing.Size(124, 43);
+            this.tblResponse10.TabIndex = 4;
+            // 
+            // lbl10Response1
+            // 
+            this.lbl10Response1.AutoSize = true;
+            this.lbl10Response1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl10Response1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl10Response1.Location = new System.Drawing.Point(3, 0);
+            this.lbl10Response1.Name = "lbl10Response1";
+            this.lbl10Response1.Size = new System.Drawing.Size(56, 21);
+            this.lbl10Response1.TabIndex = 0;
+            // 
+            // lbl10Response2
+            // 
+            this.lbl10Response2.AutoSize = true;
+            this.lbl10Response2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl10Response2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl10Response2.Location = new System.Drawing.Point(65, 0);
+            this.lbl10Response2.Name = "lbl10Response2";
+            this.lbl10Response2.Size = new System.Drawing.Size(56, 21);
+            this.lbl10Response2.TabIndex = 1;
+            // 
+            // lbl10response3
+            // 
+            this.lbl10response3.AutoSize = true;
+            this.lbl10response3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl10response3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl10response3.Location = new System.Drawing.Point(3, 21);
+            this.lbl10response3.Name = "lbl10response3";
+            this.lbl10response3.Size = new System.Drawing.Size(56, 22);
+            this.lbl10response3.TabIndex = 2;
+            // 
+            // lbl10response4
+            // 
+            this.lbl10response4.AutoSize = true;
+            this.lbl10response4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl10response4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl10response4.Location = new System.Drawing.Point(65, 21);
+            this.lbl10response4.Name = "lbl10response4";
+            this.lbl10response4.Size = new System.Drawing.Size(56, 22);
+            this.lbl10response4.TabIndex = 3;
+            // 
             // lblInstruction3
             // 
             this.lblInstruction3.Anchor = System.Windows.Forms.AnchorStyles.Left;
@@ -756,15 +1563,6 @@
             this.lblInstruction3.Size = new System.Drawing.Size(198, 15);
             this.lblInstruction3.TabIndex = 10;
             this.lblInstruction3.Text = "Click DONE when finished selection ";
-            // 
-            // btnGiveUp
-            // 
-            this.btnGiveUp.Location = new System.Drawing.Point(3, 333);
-            this.btnGiveUp.Name = "btnGiveUp";
-            this.btnGiveUp.Size = new System.Drawing.Size(75, 23);
-            this.btnGiveUp.TabIndex = 11;
-            this.btnGiveUp.Text = "GiveUp";
-            this.btnGiveUp.UseVisualStyleBackColor = true;
             // 
             // tableLayoutPanel1
             // 
@@ -853,804 +1651,6 @@
             this.label2.Size = new System.Drawing.Size(94, 100);
             this.label2.TabIndex = 1;
             // 
-            // tblGuess4
-            // 
-            this.tblGuess4.ColumnCount = 5;
-            this.tblGuess4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess4.Controls.Add(this.button5, 0, 0);
-            this.tblGuess4.Controls.Add(this.button6, 1, 0);
-            this.tblGuess4.Controls.Add(this.button7, 2, 0);
-            this.tblGuess4.Controls.Add(this.button8, 3, 0);
-            this.tblGuess4.Controls.Add(this.tblResponse4, 4, 0);
-            this.tblGuess4.Location = new System.Drawing.Point(163, 223);
-            this.tblGuess4.Name = "tblGuess4";
-            this.tblGuess4.RowCount = 1;
-            this.tblGuess4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tblGuess4.Size = new System.Drawing.Size(634, 49);
-            this.tblGuess4.TabIndex = 12;
-            // 
-            // button5
-            // 
-            this.button5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button5.Location = new System.Drawing.Point(3, 3);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(120, 43);
-            this.button5.TabIndex = 0;
-            this.button5.UseVisualStyleBackColor = true;
-            // 
-            // button6
-            // 
-            this.button6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button6.Location = new System.Drawing.Point(129, 3);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(120, 43);
-            this.button6.TabIndex = 1;
-            this.button6.UseVisualStyleBackColor = true;
-            // 
-            // button7
-            // 
-            this.button7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button7.Location = new System.Drawing.Point(255, 3);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(120, 43);
-            this.button7.TabIndex = 2;
-            this.button7.UseVisualStyleBackColor = true;
-            // 
-            // button8
-            // 
-            this.button8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button8.Location = new System.Drawing.Point(381, 3);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(120, 43);
-            this.button8.TabIndex = 3;
-            this.button8.UseVisualStyleBackColor = true;
-            // 
-            // tblResponse4
-            // 
-            this.tblResponse4.ColumnCount = 2;
-            this.tblResponse4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse4.Controls.Add(this.label3, 0, 0);
-            this.tblResponse4.Controls.Add(this.label4, 1, 0);
-            this.tblResponse4.Controls.Add(this.label5, 0, 1);
-            this.tblResponse4.Controls.Add(this.label6, 1, 1);
-            this.tblResponse4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tblResponse4.Location = new System.Drawing.Point(507, 3);
-            this.tblResponse4.Name = "tblResponse4";
-            this.tblResponse4.RowCount = 2;
-            this.tblResponse4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse4.Size = new System.Drawing.Size(124, 43);
-            this.tblResponse4.TabIndex = 4;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label3.Location = new System.Drawing.Point(3, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(56, 21);
-            this.label3.TabIndex = 0;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label4.Location = new System.Drawing.Point(65, 0);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(56, 21);
-            this.label4.TabIndex = 1;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label5.Location = new System.Drawing.Point(3, 21);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(56, 22);
-            this.label5.TabIndex = 2;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label6.Location = new System.Drawing.Point(65, 21);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(56, 22);
-            this.label6.TabIndex = 3;
-            // 
-            // tblGuess5
-            // 
-            this.tblGuess5.ColumnCount = 5;
-            this.tblGuess5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess5.Controls.Add(this.button9, 0, 0);
-            this.tblGuess5.Controls.Add(this.button10, 1, 0);
-            this.tblGuess5.Controls.Add(this.button11, 2, 0);
-            this.tblGuess5.Controls.Add(this.button12, 3, 0);
-            this.tblGuess5.Controls.Add(this.tblResponse5, 4, 0);
-            this.tblGuess5.Location = new System.Drawing.Point(163, 278);
-            this.tblGuess5.Name = "tblGuess5";
-            this.tblGuess5.RowCount = 1;
-            this.tblGuess5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tblGuess5.Size = new System.Drawing.Size(634, 49);
-            this.tblGuess5.TabIndex = 13;
-            // 
-            // button9
-            // 
-            this.button9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button9.Location = new System.Drawing.Point(3, 3);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(120, 43);
-            this.button9.TabIndex = 0;
-            this.button9.UseVisualStyleBackColor = true;
-            // 
-            // button10
-            // 
-            this.button10.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button10.Location = new System.Drawing.Point(129, 3);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(120, 43);
-            this.button10.TabIndex = 1;
-            this.button10.UseVisualStyleBackColor = true;
-            // 
-            // button11
-            // 
-            this.button11.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button11.Location = new System.Drawing.Point(255, 3);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(120, 43);
-            this.button11.TabIndex = 2;
-            this.button11.UseVisualStyleBackColor = true;
-            // 
-            // button12
-            // 
-            this.button12.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button12.Location = new System.Drawing.Point(381, 3);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(120, 43);
-            this.button12.TabIndex = 3;
-            this.button12.UseVisualStyleBackColor = true;
-            // 
-            // tblResponse5
-            // 
-            this.tblResponse5.ColumnCount = 2;
-            this.tblResponse5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse5.Controls.Add(this.label7, 0, 0);
-            this.tblResponse5.Controls.Add(this.label8, 1, 0);
-            this.tblResponse5.Controls.Add(this.label9, 0, 1);
-            this.tblResponse5.Controls.Add(this.label10, 1, 1);
-            this.tblResponse5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tblResponse5.Location = new System.Drawing.Point(507, 3);
-            this.tblResponse5.Name = "tblResponse5";
-            this.tblResponse5.RowCount = 2;
-            this.tblResponse5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse5.Size = new System.Drawing.Size(124, 43);
-            this.tblResponse5.TabIndex = 4;
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label7.Location = new System.Drawing.Point(3, 0);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(56, 21);
-            this.label7.TabIndex = 0;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label8.Location = new System.Drawing.Point(65, 0);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(56, 21);
-            this.label8.TabIndex = 1;
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label9.Location = new System.Drawing.Point(3, 21);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(56, 22);
-            this.label9.TabIndex = 2;
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label10.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label10.Location = new System.Drawing.Point(65, 21);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(56, 22);
-            this.label10.TabIndex = 3;
-            // 
-            // tblGuess6
-            // 
-            this.tblGuess6.ColumnCount = 5;
-            this.tblGuess6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess6.Controls.Add(this.button13, 0, 0);
-            this.tblGuess6.Controls.Add(this.button14, 1, 0);
-            this.tblGuess6.Controls.Add(this.button15, 2, 0);
-            this.tblGuess6.Controls.Add(this.button16, 3, 0);
-            this.tblGuess6.Controls.Add(this.tblResponse6, 4, 0);
-            this.tblGuess6.Location = new System.Drawing.Point(163, 333);
-            this.tblGuess6.Name = "tblGuess6";
-            this.tblGuess6.RowCount = 1;
-            this.tblGuess6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tblGuess6.Size = new System.Drawing.Size(634, 49);
-            this.tblGuess6.TabIndex = 14;
-            // 
-            // button13
-            // 
-            this.button13.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button13.Location = new System.Drawing.Point(3, 3);
-            this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(120, 43);
-            this.button13.TabIndex = 0;
-            this.button13.UseVisualStyleBackColor = true;
-            // 
-            // button14
-            // 
-            this.button14.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button14.Location = new System.Drawing.Point(129, 3);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(120, 43);
-            this.button14.TabIndex = 1;
-            this.button14.UseVisualStyleBackColor = true;
-            // 
-            // button15
-            // 
-            this.button15.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button15.Location = new System.Drawing.Point(255, 3);
-            this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(120, 43);
-            this.button15.TabIndex = 2;
-            this.button15.UseVisualStyleBackColor = true;
-            // 
-            // button16
-            // 
-            this.button16.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button16.Location = new System.Drawing.Point(381, 3);
-            this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(120, 43);
-            this.button16.TabIndex = 3;
-            this.button16.UseVisualStyleBackColor = true;
-            // 
-            // tblResponse6
-            // 
-            this.tblResponse6.ColumnCount = 2;
-            this.tblResponse6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse6.Controls.Add(this.label11, 0, 0);
-            this.tblResponse6.Controls.Add(this.label12, 1, 0);
-            this.tblResponse6.Controls.Add(this.label13, 0, 1);
-            this.tblResponse6.Controls.Add(this.label14, 1, 1);
-            this.tblResponse6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tblResponse6.Location = new System.Drawing.Point(507, 3);
-            this.tblResponse6.Name = "tblResponse6";
-            this.tblResponse6.RowCount = 2;
-            this.tblResponse6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse6.Size = new System.Drawing.Size(124, 43);
-            this.tblResponse6.TabIndex = 4;
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label11.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label11.Location = new System.Drawing.Point(3, 0);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(56, 21);
-            this.label11.TabIndex = 0;
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label12.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label12.Location = new System.Drawing.Point(65, 0);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(56, 21);
-            this.label12.TabIndex = 1;
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label13.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label13.Location = new System.Drawing.Point(3, 21);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(56, 22);
-            this.label13.TabIndex = 2;
-            // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label14.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label14.Location = new System.Drawing.Point(65, 21);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(56, 22);
-            this.label14.TabIndex = 3;
-            // 
-            // tblGuess7
-            // 
-            this.tblGuess7.ColumnCount = 5;
-            this.tblGuess7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess7.Controls.Add(this.button17, 0, 0);
-            this.tblGuess7.Controls.Add(this.button18, 1, 0);
-            this.tblGuess7.Controls.Add(this.button19, 2, 0);
-            this.tblGuess7.Controls.Add(this.button20, 3, 0);
-            this.tblGuess7.Controls.Add(this.tblResponse7, 4, 0);
-            this.tblGuess7.Location = new System.Drawing.Point(163, 388);
-            this.tblGuess7.Name = "tblGuess7";
-            this.tblGuess7.RowCount = 1;
-            this.tblGuess7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tblGuess7.Size = new System.Drawing.Size(634, 49);
-            this.tblGuess7.TabIndex = 15;
-            // 
-            // button17
-            // 
-            this.button17.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button17.Location = new System.Drawing.Point(3, 3);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(120, 43);
-            this.button17.TabIndex = 0;
-            this.button17.UseVisualStyleBackColor = true;
-            // 
-            // button18
-            // 
-            this.button18.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button18.Location = new System.Drawing.Point(129, 3);
-            this.button18.Name = "button18";
-            this.button18.Size = new System.Drawing.Size(120, 43);
-            this.button18.TabIndex = 1;
-            this.button18.UseVisualStyleBackColor = true;
-            // 
-            // button19
-            // 
-            this.button19.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button19.Location = new System.Drawing.Point(255, 3);
-            this.button19.Name = "button19";
-            this.button19.Size = new System.Drawing.Size(120, 43);
-            this.button19.TabIndex = 2;
-            this.button19.UseVisualStyleBackColor = true;
-            // 
-            // button20
-            // 
-            this.button20.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button20.Location = new System.Drawing.Point(381, 3);
-            this.button20.Name = "button20";
-            this.button20.Size = new System.Drawing.Size(120, 43);
-            this.button20.TabIndex = 3;
-            this.button20.UseVisualStyleBackColor = true;
-            // 
-            // tblResponse7
-            // 
-            this.tblResponse7.ColumnCount = 2;
-            this.tblResponse7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse7.Controls.Add(this.label15, 0, 0);
-            this.tblResponse7.Controls.Add(this.label16, 1, 0);
-            this.tblResponse7.Controls.Add(this.label17, 0, 1);
-            this.tblResponse7.Controls.Add(this.label18, 1, 1);
-            this.tblResponse7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tblResponse7.Location = new System.Drawing.Point(507, 3);
-            this.tblResponse7.Name = "tblResponse7";
-            this.tblResponse7.RowCount = 2;
-            this.tblResponse7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse7.Size = new System.Drawing.Size(124, 43);
-            this.tblResponse7.TabIndex = 4;
-            // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label15.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label15.Location = new System.Drawing.Point(3, 0);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(56, 21);
-            this.label15.TabIndex = 0;
-            // 
-            // label16
-            // 
-            this.label16.AutoSize = true;
-            this.label16.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label16.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label16.Location = new System.Drawing.Point(65, 0);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(56, 21);
-            this.label16.TabIndex = 1;
-            // 
-            // label17
-            // 
-            this.label17.AutoSize = true;
-            this.label17.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label17.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label17.Location = new System.Drawing.Point(3, 21);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(56, 22);
-            this.label17.TabIndex = 2;
-            // 
-            // label18
-            // 
-            this.label18.AutoSize = true;
-            this.label18.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label18.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label18.Location = new System.Drawing.Point(65, 21);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(56, 22);
-            this.label18.TabIndex = 3;
-            // 
-            // tblGuess8
-            // 
-            this.tblGuess8.ColumnCount = 5;
-            this.tblGuess8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess8.Controls.Add(this.button21, 0, 0);
-            this.tblGuess8.Controls.Add(this.button22, 1, 0);
-            this.tblGuess8.Controls.Add(this.button23, 2, 0);
-            this.tblGuess8.Controls.Add(this.button24, 3, 0);
-            this.tblGuess8.Controls.Add(this.tblResponse8, 4, 0);
-            this.tblGuess8.Location = new System.Drawing.Point(163, 443);
-            this.tblGuess8.Name = "tblGuess8";
-            this.tblGuess8.RowCount = 1;
-            this.tblGuess8.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tblGuess8.Size = new System.Drawing.Size(634, 49);
-            this.tblGuess8.TabIndex = 16;
-            // 
-            // button21
-            // 
-            this.button21.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button21.Location = new System.Drawing.Point(3, 3);
-            this.button21.Name = "button21";
-            this.button21.Size = new System.Drawing.Size(120, 43);
-            this.button21.TabIndex = 0;
-            this.button21.UseVisualStyleBackColor = true;
-            // 
-            // button22
-            // 
-            this.button22.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button22.Location = new System.Drawing.Point(129, 3);
-            this.button22.Name = "button22";
-            this.button22.Size = new System.Drawing.Size(120, 43);
-            this.button22.TabIndex = 1;
-            this.button22.UseVisualStyleBackColor = true;
-            // 
-            // button23
-            // 
-            this.button23.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button23.Location = new System.Drawing.Point(255, 3);
-            this.button23.Name = "button23";
-            this.button23.Size = new System.Drawing.Size(120, 43);
-            this.button23.TabIndex = 2;
-            this.button23.UseVisualStyleBackColor = true;
-            // 
-            // button24
-            // 
-            this.button24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button24.Location = new System.Drawing.Point(381, 3);
-            this.button24.Name = "button24";
-            this.button24.Size = new System.Drawing.Size(120, 43);
-            this.button24.TabIndex = 3;
-            this.button24.UseVisualStyleBackColor = true;
-            // 
-            // tblResponse8
-            // 
-            this.tblResponse8.ColumnCount = 2;
-            this.tblResponse8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse8.Controls.Add(this.label19, 0, 0);
-            this.tblResponse8.Controls.Add(this.label20, 1, 0);
-            this.tblResponse8.Controls.Add(this.label21, 0, 1);
-            this.tblResponse8.Controls.Add(this.label22, 1, 1);
-            this.tblResponse8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tblResponse8.Location = new System.Drawing.Point(507, 3);
-            this.tblResponse8.Name = "tblResponse8";
-            this.tblResponse8.RowCount = 2;
-            this.tblResponse8.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse8.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse8.Size = new System.Drawing.Size(124, 43);
-            this.tblResponse8.TabIndex = 4;
-            // 
-            // label19
-            // 
-            this.label19.AutoSize = true;
-            this.label19.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label19.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label19.Location = new System.Drawing.Point(3, 0);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(56, 21);
-            this.label19.TabIndex = 0;
-            // 
-            // label20
-            // 
-            this.label20.AutoSize = true;
-            this.label20.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label20.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label20.Location = new System.Drawing.Point(65, 0);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(56, 21);
-            this.label20.TabIndex = 1;
-            // 
-            // label21
-            // 
-            this.label21.AutoSize = true;
-            this.label21.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label21.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label21.Location = new System.Drawing.Point(3, 21);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(56, 22);
-            this.label21.TabIndex = 2;
-            // 
-            // label22
-            // 
-            this.label22.AutoSize = true;
-            this.label22.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label22.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label22.Location = new System.Drawing.Point(65, 21);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(56, 22);
-            this.label22.TabIndex = 3;
-            // 
-            // tblGuess9
-            // 
-            this.tblGuess9.ColumnCount = 5;
-            this.tblGuess9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess9.Controls.Add(this.button25, 0, 0);
-            this.tblGuess9.Controls.Add(this.button26, 1, 0);
-            this.tblGuess9.Controls.Add(this.button27, 2, 0);
-            this.tblGuess9.Controls.Add(this.button28, 3, 0);
-            this.tblGuess9.Controls.Add(this.tblResponse9, 4, 0);
-            this.tblGuess9.Location = new System.Drawing.Point(163, 498);
-            this.tblGuess9.Name = "tblGuess9";
-            this.tblGuess9.RowCount = 1;
-            this.tblGuess9.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tblGuess9.Size = new System.Drawing.Size(634, 49);
-            this.tblGuess9.TabIndex = 17;
-            // 
-            // button25
-            // 
-            this.button25.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button25.Location = new System.Drawing.Point(3, 3);
-            this.button25.Name = "button25";
-            this.button25.Size = new System.Drawing.Size(120, 43);
-            this.button25.TabIndex = 0;
-            this.button25.UseVisualStyleBackColor = true;
-            // 
-            // button26
-            // 
-            this.button26.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button26.Location = new System.Drawing.Point(129, 3);
-            this.button26.Name = "button26";
-            this.button26.Size = new System.Drawing.Size(120, 43);
-            this.button26.TabIndex = 1;
-            this.button26.UseVisualStyleBackColor = true;
-            // 
-            // button27
-            // 
-            this.button27.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button27.Location = new System.Drawing.Point(255, 3);
-            this.button27.Name = "button27";
-            this.button27.Size = new System.Drawing.Size(120, 43);
-            this.button27.TabIndex = 2;
-            this.button27.UseVisualStyleBackColor = true;
-            // 
-            // button28
-            // 
-            this.button28.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button28.Location = new System.Drawing.Point(381, 3);
-            this.button28.Name = "button28";
-            this.button28.Size = new System.Drawing.Size(120, 43);
-            this.button28.TabIndex = 3;
-            this.button28.UseVisualStyleBackColor = true;
-            // 
-            // tblResponse9
-            // 
-            this.tblResponse9.ColumnCount = 2;
-            this.tblResponse9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse9.Controls.Add(this.label23, 0, 0);
-            this.tblResponse9.Controls.Add(this.label24, 1, 0);
-            this.tblResponse9.Controls.Add(this.label25, 0, 1);
-            this.tblResponse9.Controls.Add(this.label26, 1, 1);
-            this.tblResponse9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tblResponse9.Location = new System.Drawing.Point(507, 3);
-            this.tblResponse9.Name = "tblResponse9";
-            this.tblResponse9.RowCount = 2;
-            this.tblResponse9.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse9.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse9.Size = new System.Drawing.Size(124, 43);
-            this.tblResponse9.TabIndex = 4;
-            // 
-            // label23
-            // 
-            this.label23.AutoSize = true;
-            this.label23.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label23.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label23.Location = new System.Drawing.Point(3, 0);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(56, 21);
-            this.label23.TabIndex = 0;
-            // 
-            // label24
-            // 
-            this.label24.AutoSize = true;
-            this.label24.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label24.Location = new System.Drawing.Point(65, 0);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(56, 21);
-            this.label24.TabIndex = 1;
-            // 
-            // label25
-            // 
-            this.label25.AutoSize = true;
-            this.label25.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label25.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label25.Location = new System.Drawing.Point(3, 21);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(56, 22);
-            this.label25.TabIndex = 2;
-            // 
-            // label26
-            // 
-            this.label26.AutoSize = true;
-            this.label26.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label26.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label26.Location = new System.Drawing.Point(65, 21);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(56, 22);
-            this.label26.TabIndex = 3;
-            // 
-            // tblGuess10
-            // 
-            this.tblGuess10.ColumnCount = 5;
-            this.tblGuess10.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess10.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess10.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess10.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess10.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tblGuess10.Controls.Add(this.button29, 0, 0);
-            this.tblGuess10.Controls.Add(this.button30, 1, 0);
-            this.tblGuess10.Controls.Add(this.button31, 2, 0);
-            this.tblGuess10.Controls.Add(this.button32, 3, 0);
-            this.tblGuess10.Controls.Add(this.tblResponse10, 4, 0);
-            this.tblGuess10.Location = new System.Drawing.Point(163, 553);
-            this.tblGuess10.Name = "tblGuess10";
-            this.tblGuess10.RowCount = 1;
-            this.tblGuess10.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tblGuess10.Size = new System.Drawing.Size(634, 49);
-            this.tblGuess10.TabIndex = 18;
-            // 
-            // button29
-            // 
-            this.button29.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button29.Location = new System.Drawing.Point(3, 3);
-            this.button29.Name = "button29";
-            this.button29.Size = new System.Drawing.Size(120, 43);
-            this.button29.TabIndex = 0;
-            this.button29.UseVisualStyleBackColor = true;
-            // 
-            // button30
-            // 
-            this.button30.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button30.Location = new System.Drawing.Point(129, 3);
-            this.button30.Name = "button30";
-            this.button30.Size = new System.Drawing.Size(120, 43);
-            this.button30.TabIndex = 1;
-            this.button30.UseVisualStyleBackColor = true;
-            // 
-            // button31
-            // 
-            this.button31.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button31.Location = new System.Drawing.Point(255, 3);
-            this.button31.Name = "button31";
-            this.button31.Size = new System.Drawing.Size(120, 43);
-            this.button31.TabIndex = 2;
-            this.button31.UseVisualStyleBackColor = true;
-            // 
-            // button32
-            // 
-            this.button32.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button32.Location = new System.Drawing.Point(381, 3);
-            this.button32.Name = "button32";
-            this.button32.Size = new System.Drawing.Size(120, 43);
-            this.button32.TabIndex = 3;
-            this.button32.UseVisualStyleBackColor = true;
-            // 
-            // tblResponse10
-            // 
-            this.tblResponse10.ColumnCount = 2;
-            this.tblResponse10.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse10.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse10.Controls.Add(this.label27, 0, 0);
-            this.tblResponse10.Controls.Add(this.label28, 1, 0);
-            this.tblResponse10.Controls.Add(this.label29, 0, 1);
-            this.tblResponse10.Controls.Add(this.label30, 1, 1);
-            this.tblResponse10.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tblResponse10.Location = new System.Drawing.Point(507, 3);
-            this.tblResponse10.Name = "tblResponse10";
-            this.tblResponse10.RowCount = 2;
-            this.tblResponse10.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse10.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblResponse10.Size = new System.Drawing.Size(124, 43);
-            this.tblResponse10.TabIndex = 4;
-            // 
-            // label27
-            // 
-            this.label27.AutoSize = true;
-            this.label27.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label27.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label27.Location = new System.Drawing.Point(3, 0);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(56, 21);
-            this.label27.TabIndex = 0;
-            // 
-            // label28
-            // 
-            this.label28.AutoSize = true;
-            this.label28.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label28.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label28.Location = new System.Drawing.Point(65, 0);
-            this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(56, 21);
-            this.label28.TabIndex = 1;
-            // 
-            // label29
-            // 
-            this.label29.AutoSize = true;
-            this.label29.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label29.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label29.Location = new System.Drawing.Point(3, 21);
-            this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(56, 22);
-            this.label29.TabIndex = 2;
-            // 
-            // label30
-            // 
-            this.label30.AutoSize = true;
-            this.label30.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label30.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label30.Location = new System.Drawing.Point(65, 21);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(56, 22);
-            this.label30.TabIndex = 3;
-            // 
             // frmMasterMind
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -1674,9 +1674,6 @@
             this.tblGuess3.ResumeLayout(false);
             this.tblResponse3.ResumeLayout(false);
             this.tblResponse3.PerformLayout();
-            this.tableLayoutPanel1.ResumeLayout(false);
-            this.tableLayoutPanel2.ResumeLayout(false);
-            this.tableLayoutPanel2.PerformLayout();
             this.tblGuess4.ResumeLayout(false);
             this.tblResponse4.ResumeLayout(false);
             this.tblResponse4.PerformLayout();
@@ -1698,6 +1695,9 @@
             this.tblGuess10.ResumeLayout(false);
             this.tblResponse10.ResumeLayout(false);
             this.tblResponse10.PerformLayout();
+            this.tableLayoutPanel1.ResumeLayout(false);
+            this.tableLayoutPanel2.ResumeLayout(false);
+            this.tableLayoutPanel2.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -1754,75 +1754,75 @@
         private Label lblInstruction3;
         private Button btnGiveUp;
         private TableLayoutPanel tblGuess4;
-        private Button button5;
-        private Button button6;
-        private Button button7;
-        private Button button8;
+        private Button btn4Guess1;
+        private Button btn4Guess2;
+        private Button btn4Guess3;
+        private Button btn4Guess4;
         private TableLayoutPanel tblResponse4;
-        private Label label3;
-        private Label label4;
-        private Label label5;
-        private Label label6;
+        private Label lbl4Response1;
+        private Label lbl4Response2;
+        private Label lbl4Response3;
+        private Label lbl4Response4;
         private TableLayoutPanel tblGuess5;
-        private Button button9;
-        private Button button10;
-        private Button button11;
-        private Button button12;
+        private Button btn5Guess1;
+        private Button btn5Guess2;
+        private Button btn5Guess3;
+        private Button btn5Guess4;
         private TableLayoutPanel tblResponse5;
-        private Label label7;
-        private Label label8;
-        private Label label9;
-        private Label label10;
+        private Label lbl5Response1;
+        private Label lbl5Response2;
+        private Label lbl5Response3;
+        private Label lbl5Response4;
         private TableLayoutPanel tblGuess6;
-        private Button button13;
-        private Button button14;
-        private Button button15;
-        private Button button16;
+        private Button btn6Guess1;
+        private Button btn6Guess2;
+        private Button btn6Guess3;
+        private Button btn6Guess4;
         private TableLayoutPanel tblResponse6;
-        private Label label11;
-        private Label label12;
-        private Label label13;
-        private Label label14;
+        private Label lbl6Response1;
+        private Label lbl6Response2;
+        private Label lbl6Response3;
+        private Label lbl6Response4;
         private TableLayoutPanel tblGuess7;
-        private Button button17;
-        private Button button18;
-        private Button button19;
-        private Button button20;
+        private Button btn7Guess1;
+        private Button btn7Guess2;
+        private Button btn7Guess3;
+        private Button btn7Guess4;
         private TableLayoutPanel tblResponse7;
-        private Label label15;
-        private Label label16;
-        private Label label17;
-        private Label label18;
+        private Label lbl7Response1;
+        private Label lbl7Response2;
+        private Label lbl7Response3;
+        private Label lbl7Response4;
         private TableLayoutPanel tblGuess8;
-        private Button button21;
-        private Button button22;
-        private Button button23;
-        private Button button24;
+        private Button btn8Guess1;
+        private Button btn8Guess2;
+        private Button btn8Guess3;
+        private Button btn8Guess4;
         private TableLayoutPanel tblResponse8;
-        private Label label19;
-        private Label label20;
-        private Label label21;
-        private Label label22;
+        private Label lbl8Response1;
+        private Label lbl8Response2;
+        private Label lbl8Response3;
+        private Label lbl8Response4;
         private TableLayoutPanel tblGuess9;
-        private Button button25;
-        private Button button26;
-        private Button button27;
-        private Button button28;
+        private Button btn9Guess1;
+        private Button btn9Guess2;
+        private Button btn9Guess3;
+        private Button btn9Guess4;
         private TableLayoutPanel tblResponse9;
-        private Label label23;
-        private Label label24;
-        private Label label25;
-        private Label label26;
+        private Label lbl9Response1;
+        private Label lbl9Response2;
+        private Label lbl9Response3;
+        private Label lbl9Response4;
         private TableLayoutPanel tblGuess10;
-        private Button button29;
-        private Button button30;
-        private Button button31;
-        private Button button32;
+        private Button btn10Guess1;
+        private Button btn10Guess2;
+        private Button btn10Guess3;
+        private Button btn10Guess4;
         private TableLayoutPanel tblResponse10;
-        private Label label27;
-        private Label label28;
-        private Label label29;
-        private Label label30;
+        private Label lbl10Response1;
+        private Label lbl10Response2;
+        private Label lbl10response3;
+        private Label lbl10response4;
         private TableLayoutPanel tableLayoutPanel1;
         private Button button1;
         private Button button2;
