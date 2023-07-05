@@ -9,7 +9,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-
+/*AF It would be nicer if the "Give up" and "done selection" buttons would be disabled on start and disabled when the game is over - it's a clearer UI
+ Also, when the game is over, the user should see some sort of message letting him know that he won.
+Also, to make it clear that you can play again, the "start button" should change to say "Start over" to start a new game*/
 namespace MasterMindApp
 {
     public partial class frmMasterMind : Form
@@ -83,7 +85,6 @@ namespace MasterMindApp
             lstpanel.ForEach(t => t.CellBorderStyle = TableLayoutPanelCellBorderStyle.None);
             lstpanel.ForEach(t => ResetLabels(t));
             EnablePanel();
-
         }
         private void ResetLabels(TableLayoutPanel t) {
             foreach (Control c in t.Controls)
@@ -174,10 +175,12 @@ namespace MasterMindApp
 
         }
 
+        //AF I would name this procedure a name that explains more cleary what the procedure is doing - GiveREsult sounds vague to me
         private string GiveResult() {
             TableLayoutPanel tblturn = lstpanel[ncount];
             int cntexactmatch = 0;
             int cntcolormatch = 0;
+            //AF What is 'ncntbutton' referring to - this variable name sounds confusing to me, as I have no idea what ncnt is
             int ncntbutton = 1;
             string gamestatus = "";
             foreach (Control c in tblturn.Controls)
@@ -216,6 +219,7 @@ namespace MasterMindApp
                     {
                         if (l is Label)
                         {
+                            //AF Seems like the curly brace opening below and closing at line 236 is extra
                             {
                                 if (cntexactmatch > 0)
                                 {
@@ -224,6 +228,7 @@ namespace MasterMindApp
                                 }
                                 else if (cntcolormatch > 0)
                                 {
+                                    //AF It is very hard to tell the difference between the white and the default color, a stronger color should be used in this case
                                     l.BackColor = Color.White;
                                     cntcolormatch = cntcolormatch - 1;
                                 }
